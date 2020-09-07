@@ -1,0 +1,112 @@
+.metodo-contacto:hover, .metodo-contacto2:hover{
+    font-size: 15pt;
+    color: grey;
+}
+nav{
+   /*  background-color: black; */
+    text-align: right;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 2px;
+}
+.logonav{
+    float: left;
+    width: 150px;
+    margin-left: 15px;
+    margin-bottom: 2px;
+}
+.linknav{
+    color: rgb(0, 0, 0);
+    padding-left: 2mm;
+    padding-right: 5mm;
+    font-family: 'Cormorant Garamond', serif;
+    text-decoration: none;   
+}
+.linknavactual{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 5mm;
+    font-family: 'Cormorant Garamond', serif;
+    text-decoration: none;
+}
+
+.img-inicio{
+    width: 1000px;
+    margin-left: 15%;
+}
+
+.img-clienteI{
+    float: left;
+    margin-left: 150px;
+}
+.img-clienteD{
+    float: right;
+    margin-right: 150px;
+}
+.img-proyecto{
+    width: 50%;
+    float: left;
+    margin-left: 25% ;
+}
+
+.content-proyectosI{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+
+.subtitulohistoria{
+    font-size: 18pt;
+    font-family: 'Playfair Display', serif;
+    margin-left: 40px;
+    border-bottom: 1px solid;
+    margin-top: 30px;
+}
+
+.metodo-contacto{
+    font-size: 14pt;
+    font-family: 'Playfair Display', serif;
+    margin-left: 70px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+.metodo-contacto2{
+    font-size: 14pt;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    color: black;
+}
+
+.horarioatencion{
+    font-size: 14pt;
+    font-family: 'Playfair Display', serif;
+    margin-left: 70px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+ 
+.content{
+    font-family: 'Playfair Display', serif;
+    margin-left: 50px;
+    margin-right: 25px;
+}
+
+footer{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0%;
+}
+
+.linkfooter{
+    color: rgb(255, 255, 255);
+    font-family: 'Cormorant Garamond', serif;
+    text-decoration: none;
+}
+.img-footer{
+    height: 20px;
+}
